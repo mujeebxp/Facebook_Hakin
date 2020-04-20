@@ -234,30 +234,4 @@ apt install python2
 pip2 install urllib3 chardet certifi idna requests
 pkg install git
 pip2 install mechanize
-pkg install curl
-pkg install ruby
-pkg install gem
-gem install lolcat
-pkg install git
-pkg install php
-pkg install ruby cowsay toilet figlet
-pkg install neofetch
-pkg install nano
-figlet -f slant " S U K S E S "|lolcat
-fi
-
-if [ $pil = 19 ]
-then
-clear
-figlet -f slant "E X I T"|lolcat
-sleep 2
-echo $cy"Comin up "
-sleep 2
-echo $i"facebook ngrok.weeman"
-sleep 2
-echo $ku"WhatsApp :"$i" 0774593440"
-echo $ku"Facebook :"$i" shehan lahiru "
-sleep 2
-echo $pur">> Thanks For All <<"
-exit
-fi
+pkg install c
