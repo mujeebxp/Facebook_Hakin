@@ -2,7 +2,7 @@
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
-pur='\033[35;1m' #purple
+pur='\033[35;1m' #purpleහ්හ්
 cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"──────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     SRILANKA DARK TERMUX CLUB"$i"         |"
+echo $i" |"$cy"     anunge script ussanna epa ballo"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" 😍SHEHAN LAHIRU😍  "$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Shehan lahiru "$i"                   |"
