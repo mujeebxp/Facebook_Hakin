@@ -11,24 +11,24 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i"["$bi"•"$i"]"$me"──────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     SRILANKA DARK TERMUX CLUB"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" SHEHAN LAHIRU  [  ]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" 😍SHEHAN LAHIRU😍  "$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Shehan lahiru "$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [ovin🤗] [MR.S∆MAx] [MR.mak]"$i"  |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [ovin🤗] [MR.S∆MAx] [MR.mak😍]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [dont copy]"$i" |"
-echo $i" |"$pu" Join WhatsApp  :"$ku" Copy link  https://chat.whatsapp.com/Ce9OXMKyTEF45SspLv4kJw "$i"             |"
+echo $i" |"$pu" Join WhatsApp  :"$ku" https://chat.whatsapp.com/Ce9OXMKyTEF45SspLv4kJw "$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" shehan9909@gmail.com"$i"      |"
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i"["$bi"•"$i"]"$me"──────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" FACEBOOK   FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me" 2"$i" |"$cy" FACEBOOK   FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me" 3"$i" |"$cy" FACEBOOK   FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" FACEBOOK   FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
-echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me" 6"$i" |"$cy" DARK TOOL FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE  N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me" 6"$i" |"$cy" DARK TOOL  FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
 echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
@@ -47,7 +47,7 @@ echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Kalana m""$bi"]"
+echo $me"┌==="$bi"["$i"whats app link ☝️"$bi"]"$me"======"$bi"["$i""Kalana m""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
