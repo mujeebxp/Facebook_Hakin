@@ -3,25 +3,6 @@
 #skin
 clear
 
-CorrectUsername = "RedMoonNew"
-CorrectPassword = "lovehacker"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;91m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;94m🔑 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
-	    time.sleep(2)
-            loop = 'false'
-        else:
-            print "\033[1;91mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
-    else:
-        print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
-
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
@@ -42,6 +23,36 @@ echo $i" |"$cy"            ~ [cyber] [%MR.S%] [dont copy]"$i" |"
 echo $i" |"$pu" Join WhatsApp  :"$ku" https://chat.whatsapp.com/Ce9OXMKyTEF45SspLv4kJw "$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" shehan9909@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"──────────────────────────────────────────"$i"["$bi"•"$i"]"
+
+CorrectUsername = "RedMoonNew"
+CorrectPassword = "lovehacker"
+
+loop = 'true'
+while (loop == 'true'):
+    username = raw_input("\033[1;91m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
+    if (username == CorrectUsername):
+    	password = raw_input("\033[1;94m🔑 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
+        if (password == CorrectPassword):
+            print "Logged in successfully as " + username #Dev:love_hacker
+	    time.sleep(2)
+            loop = 'false'
+        else:
+            print "\033[1;91mWrong Password"
+            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+    else:
+        print "\033[1;94mWrong Username"
+        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+
+def login():
+	os.system('clear')
+	try:
+		toket = open('login.txt','r')
+		menu() 
+	except (KeyError,IOError):
+		os.system('clear')
+		print logo
+		jalan(' \033[1;92mWarning: \033[1;96mDo Not Use Your Personal Account' )
+		jalan(' \033[1;92m   Note: \033[1;96mUse a New Account To Login & connect indonasian vpn' )
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" FACEBOOK   FB PHP        "$i"|"$i"    |"$cy" F"$i" |"
