@@ -50,10 +50,7 @@ echo
 echo $me"┌==="$bi"["$i"whats app link ☝️"$bi"]"$me"======"$bi"["$i""Kalana m""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
-
-if [ $pil = 1 ]
-then
-clear
+r
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/fbbrute
@@ -62,11 +59,11 @@ php fb.php
 fi
 
 if [ $pil = 2 ]
-then
+
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
+git clone https://github.coR13ND8/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
@@ -86,7 +83,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/mbf
+git clone https://github.cFR13ND8/mbf
 cd mbf
 python2 MBF.py
 fi
@@ -96,7 +93,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/N1ght420/FaceBrute
+git clone https://github.com/N1ght0/FaceBrute
 cd FaceBrute
 python fb.py
 fi
@@ -106,7 +103,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/facebash.git
+git clone https://github.com/thelinuoice/facebash.git
 cd facebash
 bash facebash.sh
 fi
@@ -116,7 +113,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/EmailVuln
+git clone https://github.com/FR1D8/EmailVuln
 cd EmailVuln
 python2 vuln.py
 fi
@@ -126,7 +123,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/ProfileGuardFb
+git clone https://github.com/FR13ND8/vbjProfileGuardFb
 cd ProfileGuardFb
 php guard.php
 fi
@@ -136,7 +133,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IlayTamvan/Report
+git clone https://github.com/IlayTamvabhjbvn/Report
 cd Report
 unzip Report.zip
 python2 Report.py
@@ -147,8 +144,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/AMVengeance/FB-React
-cd FB-React
+git clone https://github.com/AMVengevhjbance/FB-React
+cd FB-Reacbgub
 ./start
 fi
 
@@ -157,7 +154,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/InfoFB
+git clone https://github.com/FRD8/InfoFB
 cd InfoFB
 pip2 install -r requirements.txt
 python2 info.py
@@ -169,7 +166,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 pip2 install mechanize
-git clone https://github.com/Senitopeng/Botkomena.git
+git clone https://github.com/Senitopg/Botkomena.git
 cd Botkomena
 python2 botkomena.py
 fi
@@ -179,8 +176,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/autolike
-cd autolike
+git 
 php autolike.php
 fi
 
@@ -189,7 +185,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/shellphish.git
+git clone https://github.com/thelinux/shellphish.git
 cd shellphish
 bash shellphish.sh
 fi
@@ -199,7 +195,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/blackeye.git
+git clone https://github.com/thelinlackeye.git
 cd blackeye
 bash blackeye.sh
 fi
@@ -209,7 +205,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/UndeadSec/SocialFish.git
+git clone https://github.com/Uec/SocialFish.git
 cd SocialFish
 chmod +x *
 pip2 install -r requirements.txt
@@ -221,7 +217,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-https://github.com/evait-security/weeman.git
+https://github.com/evait-security/man.git
 chmod +x *
 python2 weeman.py
 fi
@@ -254,10 +250,3 @@ sleep 2
 echo $cy"Comin up "
 sleep 2
 echo $i"facebook ngrok.weeman"
-sleep 2
-echo $ku"WhatsApp :"$i" 0774593440"
-echo $ku"Facebook :"$i" shehan lahiru "
-sleep 2
-echo $pur">> Thanks For All (Don't copy script ) <<"
-exit
-fi
